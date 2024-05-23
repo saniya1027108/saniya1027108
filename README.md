@@ -20,13 +20,17 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon2.cleanpng.com/20180408/opq/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a96372aeb5.5262838015231655394698.jpg" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/2x/pycharm.png" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.seekpng.com/png/full/807-8079213_jupyter-sq-text-jupyter-notebook-logo-png.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 
+## Contributions: 
+<p align="center">
+ 
+![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniya1027108&show_icons=true&theme=radical&hide=contribs,prs,issues)
 
-<!-- ![Sanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saniya1027108&show_icons=true&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya1027108&layout=compact&theme=radical)
+
 
