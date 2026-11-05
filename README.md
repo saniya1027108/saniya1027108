@@ -136,12 +136,11 @@ I'm always interested in connecting with engineers, researchers, founders, and t
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya1027108&show_icons=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya1027108&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=saniya1027108&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saniya1027108&layout=compact&hide_border=true" height="165" />
+</p>
 
 > I enjoy working where AI research meets engineering — understanding how intelligent systems behave, then building the infrastructure that makes them useful in the real world.
