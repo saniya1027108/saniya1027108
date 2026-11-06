@@ -29,7 +29,7 @@ Co-authored research presented at an **ICML 2026 Workshop** exploring how we eva
 - Developed trace-grounded metrics to evaluate agent collaboration beyond task success
 - Found **44% redundant agent requests** and up to a **5× token-cost difference** across model pairings
 
-📄 *Beyond Task Success: Evaluating Cooperation in LLM-Based Multi-Agent Systems*
+📄 [**Beyond Task Success: Evaluating Cooperation in LLM-Based Multi-Agent Systems**](https://openreview.net/pdf?id=vcpVCPAsSP)
 
 ### 🧬 EviSearch
 **LLMs • RAG • Multi-Agent Systems • Human-in-the-Loop AI**
@@ -41,6 +41,8 @@ Built a multi-agent system for extracting structured evidence from clinical rese
 - Reached **95.2% accuracy** after reviewing only **15.6% of cells**
 - **98.9% independently verified** outputs with source-page traceability
 - Runs fully offline using open-weight models on a single **NVIDIA H200**
+
+📄 [**EviSearch — Research Paper**](https://arxiv.org/html/2604.14165v1)
 
 ---
 
